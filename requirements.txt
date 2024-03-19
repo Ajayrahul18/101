@@ -1,8 +1,0 @@
-Flask
-flask_sqlalchemy
-flask_login
-werkzeug
-flask_wtf
-wtforms
-
-
